@@ -1,2 +1,5 @@
 exclude/
 venv/
+.vscode/
+db.sqlite*
+**/__pycache__
